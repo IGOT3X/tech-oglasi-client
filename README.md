@@ -1,4 +1,3 @@
-# tech-oglasi-client
-TECH-TECH has allowed me to share the client side to the project I have worked on so here it is!
+# PROPERTY OF TECH-TECH
 
-If you are interested in the work I did you can contact me or take a look at my CV.
+I am allowed to share the client side code. Enjoy your exploration.
